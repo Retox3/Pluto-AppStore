@@ -1,6 +1,6 @@
 export default {
   name: "Clock",
-  description: "A basic clock app for Pluto",
+  description: "A basic clock app for M.F.S OS",
   ver: 1.3, // Compatible with core v1.3
   type: "process",
   exec: async function (Root) {

@@ -13,7 +13,7 @@ export default {
 
     // Testing the html library
     RadioWindow = new Win({
-      title: "Cherries.to Radio",
+      title: "Radio",
       content: "Loading...",
       width: 400,
       height: 330,

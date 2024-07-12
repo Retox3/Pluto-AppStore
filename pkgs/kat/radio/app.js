@@ -1,5 +1,5 @@
 export default {
-  name: "Cherries.to Radio",
+  name: "Radio",
   description: "Play music from the Cherries Radio.",
   ver: 1.5,
   type: "process",
